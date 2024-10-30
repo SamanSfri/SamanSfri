@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a front-end developer who is enthusiastic in learning new things about tech.
-love working as a programmer and trying hard to get better day by day
+love working as a programmer and trying hard to get better day after day
 <!--
 **SamanSfri/SamanSfri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
