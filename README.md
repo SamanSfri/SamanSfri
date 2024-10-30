@@ -1,5 +1,4 @@
 ## Hi there 👋
-About me:
 I am a front-end developer who is enthusiastic in learning new things about tech.
 love working as a programmer and trying hard to get better day by day
 <!--
